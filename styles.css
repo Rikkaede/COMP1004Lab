@@ -1,0 +1,17 @@
+ 
+        * {
+            color: red;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1 {
+            color: green;
+        }
+
+        .someClass {
+            text-align: center;
+        }
+        #someID {
+            text-shadow: 2px 2px #000000;
+            
+        }
